@@ -17,7 +17,7 @@ B∪(A∩C) = {3, 4, 5, 6, 7}
 What is the characteristic vector of (A∆B)∩C?
 
 ### Answer
-A∆B = {4, 5, 6}
+A∆B = {4, 5, 6, 7}
 
 (A∆B)∩C = {4, 5, 6}
 
@@ -48,3 +48,8 @@ Which is true for obvious reasons.
 
 ## Question 3
 Which of the following statements are true
+
+* x∈{x}
+Is the singular element x an element of the set containing the element x? Yes.
+
+* {x}⊆{x}
