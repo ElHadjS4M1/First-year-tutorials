@@ -167,6 +167,24 @@ And you want at least 2 of them to have the same digit in common.
 So 10 digits and they can be put over any of the numbers
 Well, if you pick 2 random numbers there isn't a very high chance of getting 2 digits in common.
 
+So in the worst case scenario you'll have
+```
+111
+222
+333
+444
+555
+666
+777
+888
+999
+```
+For a total of 9 numbers. But adding a tenth number like so
+```
+989
+```
+Would make it have a digit in common with 888. So therefore 10 is the worst case scenario to get 2 digits in common.
+
 
 
 
